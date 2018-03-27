@@ -101,4 +101,4 @@ I recorded the positions of positive detections in each frame of the video.  Fro
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-The proposed pipeline works well. However it cannot be considered a real-time vehicle detection pipeline. One potential future work includes implementing real-time algorithms such as YOLO.
+The proposed pipeline works well. However it cannot be considered a real-time vehicle detection pipeline. One potential future work includes implementing real-time object detection algorithms such as YOLO.
